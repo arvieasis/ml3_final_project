@@ -1,1 +1,4 @@
-# ml3_final_project
+# Machine Learning 3 Final Project
+by LT7
+
+Working Title: Kaldereta Identifier
