@@ -1,4 +1,10 @@
-# Machine Learning 3 Final Project
-by LT7
+# Skin Cancer Detection
+## Machine Learning 3 Final Project by LT 7
 
-Working Title: Kaldereta Identifier
+
+To accomplish
+- data sampling
+- data loading
+- models
+  - transformers (vision transformer)
+- model evaluation
