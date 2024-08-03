@@ -6,6 +6,7 @@ To accomplish
 - data sampling
 - data loading
 - models
-  - classical ML using tabular data only
+  - classical ML using tabular data only (baseline model)
   - transformers (vision transformer)
+  - cnn?
 - model evaluation
